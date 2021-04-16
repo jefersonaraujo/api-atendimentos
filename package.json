@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jefersonaraujo/api-atendimentos#readme",
   "dependencies": {
+    "elastic-apm-node": "^3.13.0",
     "express": "^4.17.1"
   }
 }
